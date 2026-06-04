@@ -115,7 +115,7 @@ El uso de Apache Spark facilitó el procesamiento eficiente del dataset, demostr
 
 Proyecto desarrollado por:
 
-Julian Camilo Cardena Torres
+Julian Camilo Cardena Torres -
 Juan Fernando Bueno Torres
 Análisis de datos con Apache Spark  
 Dataset: MovieLens Latest
