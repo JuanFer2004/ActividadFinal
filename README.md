@@ -117,5 +117,4 @@ Proyecto desarrollado por:
 
 Julian Camilo Cardena Torres -
 Juan Fernando Bueno Torres
-Análisis de datos con Apache Spark  
-Dataset: MovieLens Latest
+
